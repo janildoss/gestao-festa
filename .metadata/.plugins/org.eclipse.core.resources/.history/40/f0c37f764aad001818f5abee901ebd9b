@@ -1,0 +1,5 @@
+package com.algaworks.festa.config;
+
+public class InMemorySecurityConfig {
+
+}
